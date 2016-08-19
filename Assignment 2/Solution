@@ -1,0 +1,7 @@
+Ans 3.
+1. Refer to PART1 in the current folder
+2. -
+3. Refer to assign1group28.c
+4. -
+5. Refer to makefile
+6. The space occupied by the program created by the Arduino IDE in flash memory is 1056 bytes vs the space occupied by assign1group28.c which is 178 bytes. [Refer to space.png]
